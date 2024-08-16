@@ -1,0 +1,1 @@
+# Folder dedicated to studies in Machine Learning, following the link: https://cursos.alura.com.br/machine-learning-essentials-lucasbatistaf-1723763683490-p812916

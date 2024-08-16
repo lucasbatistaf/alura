@@ -1,0 +1,1 @@
+# Folder dedicated to studies in Python, following the link: https://cursos.alura.com.br/python-essentials-lucasbatistaf-1723759182993-p812870
